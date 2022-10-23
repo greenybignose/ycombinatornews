@@ -1,0 +1,54 @@
+.commentsmiddlepageinside {
+display: flex;  
+ flex-direction: column;
+ gap: 1vh;
+ justify-content: flex-start;
+ align-items: flex-start;
+ align-self: center;
+ width: 80vw;
+ height: 170vh;
+ background-color: #e6e6e6;
+}
+
+.commentslistfordata {
+ display: flex;  
+ flex-direction: column;
+ gap: 1vh;
+ justify-content: center;
+ align-items: center;
+ align-self: flex-start;
+ width: 80vw;
+ height: fit-content;
+ background-color: #e6e6e6;
+}
+
+
+.commentstoprowdata {
+ display: flex;  
+ flex-direction: row;
+ justify-content: flex-start;
+ align-items: center;
+ width: 80vw;
+ height: fit-content;
+ background-color: #e6e6e6;
+}
+
+.commentstoprowspan {
+  font-size: 0.4vw;
+  font-family: "Arial", Segoe UI;
+}
+
+.commentsbottomrowdata {
+display: flex;  
+ flex-direction: row;
+ justify-content: flex-start;
+ align-items: center;
+ width: 80vw;
+ height: fit-content;
+ background-color: #e6e6e6;
+}
+
+.commentsbottomrowspan {
+  font-size: 0.9vw;
+  font-family: "Arial", Segoe UI;
+}

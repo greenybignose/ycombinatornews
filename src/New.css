@@ -1,0 +1,51 @@
+.newmiddlepageinside {
+display: flex;  
+ flex-direction: column;
+ justify-content: flex-start;
+ align-items: flex-start;
+ align-self: center;
+ width: 80vw;
+ height: 150vh;
+ background-color: #e6e6e6;
+}
+
+.newlistfordata {
+ display: flex;  
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ align-self: flex-start;
+ width: 80vw;
+ height: 7vh;
+ background-color: #e6e6e6;
+}
+
+.newtoprowdata {
+display: flex;  
+ flex-direction: row;
+ justify-content: flex-start;
+ align-items: center;
+ width: 80vw;
+ height: 3vh;
+ background-color: #e6e6e6;
+}
+
+.newtoprowspan {
+  font-size: 0.9vw;
+  font-family: "Arial", Segoe UI;
+}
+
+.newbottomrowdata {
+ display: flex;  
+ flex-direction: row;
+ justify-content: flex-start;
+ align-items: center;
+ width: 80vw;
+ height: 2vh;
+ background-color: #e6e6e6;
+}
+
+.newbottomrowspan {
+  font-size: 0.5vw;
+  font-family: "Arial", Segoe UI;
+}
